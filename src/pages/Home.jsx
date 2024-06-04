@@ -11,13 +11,13 @@ function Home() {
         <>
             <Header />
             <div className='container_home'>
-                <div className='home_bg'>
+                <div>
                     <p>Olá, eu sou</p>
                     <h1>Iuri Silva</h1>
                     <p>Desenvolvedor FrontEnd & UI Designer</p>
-                    <button>Linkedin</button>
+                    <button className='botao'>Linkedin</button>
                 </div>
-                <div className='home_bg'>
+                <div>
                     <img src={Imagem1} alt="" />
                 </div>
             </div>

@@ -11,7 +11,17 @@ p {
     flex-direction: row;
     justify-content: center;
     background-color: #0E0E0E;
+    
 }
 img, h1, p, button {
     padding: 20px;
+}
+
+
+button {
+    background-color: #BF91F9;
+    width: 120px;
+    height: 20px;
+    border-radius: 20px;
+   
 }
