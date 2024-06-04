@@ -1,0 +1,17 @@
+h1 {
+    color: #BF91F9;
+}
+
+p {
+    color: #FFF;
+}
+
+.container_home {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #0E0E0E;
+}
+img, h1, p, button {
+    padding: 20px;
+}
